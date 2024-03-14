@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="510ea1fe-f2a6-4d2d-89bb-ca21df7e5a76" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rover.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Avancer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Deplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Reculer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/Sauter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/TournerDroite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Actions/TournerGauche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AnalyseDemande.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carte/Arbre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carte/Mare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Carte/map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Robots/Robot.java" afterDir="false" />
-    </list>
+    <list default="true" id="510ea1fe-f2a6-4d2d-89bb-ca21df7e5a76" name="Changes" comment="Projet rover" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,11 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708591965836</updated>
-      <workItem from="1708591966932" duration="10227000" />
+      <workItem from="1708591966932" duration="12227000" />
     </task>
+    <task id="LOCAL-00001" summary="Projet rover">
+      <option name="closed" value="true" />
+      <created>1708603279676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708603279676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Projet rover" />
+    <option name="LAST_COMMIT_MESSAGE" value="Projet rover" />
   </component>
 </project>
